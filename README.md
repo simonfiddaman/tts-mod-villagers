@@ -1,5 +1,11 @@
 # Villagers [SCRIPTED] 2-4 players with expansions (2832256169)
 
+## Steam Workshop - Tabletop Simulator
+
+https://steamcommunity.com/sharedfiles/filedetails/?id=2832256169
+
+## Description
+
 Scripted implementation of Haakon Hoel Gaarder's Villagers (2019) with Kickstarter expansions. 
 
 Source Mod: Villagers 3-4 Players with Expansions by @Hawk (official tts mod by game author)
